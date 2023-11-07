@@ -1,0 +1,27 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 1000px;
+}
+.img_cont {
+width: 1000px;
+height: 800px;
+position: absolute;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+    position: relative;
+    top: 600%;
+}
